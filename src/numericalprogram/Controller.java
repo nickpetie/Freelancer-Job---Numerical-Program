@@ -10,6 +10,6 @@ package numericalprogram;
  *
  * @author nicholaspeterson
  */
-public class theView {
+public class Controller {
     
 }

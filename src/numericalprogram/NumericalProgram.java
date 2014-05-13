@@ -17,6 +17,12 @@ public class NumericalProgram {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        View theView = new View();
+        Controller theController = new Controller();
+        Model theModel = new Model();
+        
+        theView.main();
     }
     
 }
